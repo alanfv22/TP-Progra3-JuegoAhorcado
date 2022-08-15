@@ -1,0 +1,17 @@
+idiosincrasia
+paralelepipedo
+ovoviviparo
+caleidoscopio
+fisioterapeuta
+html
+css
+javascript
+react
+nodejs
+sql
+php
+matlab
+java
+python
+c
+ruby
